@@ -29,3 +29,21 @@
 - Se copian los estilos de la clase11.html del proyecto fronted-developer
 - Primeros pasos src>components>Header.jsx y src>styles>Header.scss
 - Actualizar el archivo Home.jsx
+
+&nbsp;
+## Paso 5: Aplicar el enfoque del Diseño Atómico: átomos-moléculas-Organismos-Plantillas
+- Archivos de la carpeta raíz: .babelrc, .gitignore, LICENSE, package-lock.json, package.json, README.md, webpack.config.js
+- Carpetas de la carpeta raíz: node_modules, public, src
+- Archivo de la carpeta src: index.js
+- Carpetas de la carpeta src: assets (icons y logos), components, containers, pages, routes, styles
+- Archivo de la carpeta public: index.html
+- Archivos de la carpeta src/components: Header.jsx, Menu.jsx, Order.jsx, OrderItem.jsx, ProductInfo.jsx, ProductItem.jsx, ShoppingCartItem,jsx
+- Archivos de la carpeta src/containers: Layout.jsx, MyIrder.jsx, ProductDetail.jsx, ProductList.jsx
+- Archivos de la carpeta src/pages: Checkout.jsx, CreateAccount.jsx, Home,jsx, Login.jsx, MyAccount.jsx, NewPassword.jsx, NotFound.jsx, Orders.jsx, PasswordRecovery.jsx, SendEmail.jsx
+- Archivo de la carpeta src/routes: App.jsx
+- Archivos de la carpeta src/styles: _var.scss, Checkout.scss, CreateAccount.scss, global.css, Header.scss, Login.scss, Menu.scss, MyAccount.scss, MyOrder.scss, NewPassword.scss, Order.scss, OrderItem.scss
+
+&nbsp;
+## Paso 6: Implementar alias, del HandleToggle
+- Se configuran las rutas para los alias de las imágenes y de los import en las cabeceras de cada archivo y en las etiquetas.
+- Se implementa el HandleToggle para el login.
